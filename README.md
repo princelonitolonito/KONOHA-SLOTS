@@ -1,2 +1,2 @@
 # KONOHA-SLOTS
-Must win! :) hehe
+Welcome to the hidden village of Konoha, a world where ninjas are legends and chakra runs through their veins! In this high-stakes game of chance, you'll embark on an exciting journey inspired by the epic tale of Naruto. Prepare to test your luck, harness your inner ninja spirit, and aim for the ultimate jackpot, all while encountering some of your favorite characters from the Naruto universe. Get ready to spin the reels, uncover the power of the Tailed Beasts, and prove your worth as a shinobi. Are you ready to become the Hokage of the slots? Join us in the Konoha-Slots game and start your adventure now!
