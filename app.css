@@ -1,0 +1,28 @@
+
+
+.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: yellow;
+    border: 2px solid black;
+    padding-bottom: 30px;    
+
+    
+}
+
+.button
+{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+
+}
+
+body {
+    background-image: url('https://wallpapers.com/images/hd/konoha-kwldytpkkc1uo4qb.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Optional */
+    /* Additional background properties can be set here */
+  }
